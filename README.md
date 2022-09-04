@@ -1,5 +1,13 @@
 # vite-demo
 
+This project cteate by 
+
+```shell
+pnpm create vite
+```
+
+select react template
+
 # start
 
 ```shell
