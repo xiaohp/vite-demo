@@ -7,9 +7,9 @@ pnpm i
 pnpm run dev
 ```
 
-config proxy via https://github.com/avwo/whistle
+add host to `/etc/host`
 ```
-127.0.0.1:5173 www.baidu.com
+127.0.0.1 www.baidu.com
 ```
 
-open www.baidu.com
+open https://www.baidu.com:5173
